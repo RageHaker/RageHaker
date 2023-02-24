@@ -10,7 +10,7 @@
 - 🤖 I can accept my mistakes  
   
 
-- ✔️ I learning: Blazor, WPF and Neural networks  
+- ✔️ I learning: Blazor, WPF, MAUI and Neural networks  
   
 
 - ❗ Fun fact: I use JSON  
