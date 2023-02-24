@@ -53,19 +53,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-<a href="X-s0ft" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="xs0ft" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
 
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=X-s0ft&show_icons=true&count_private=true&hide_border=true" align="left" /></div>
