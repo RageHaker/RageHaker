@@ -10,10 +10,10 @@
 - 🤖 I can accept my mistakes  
   
 
-- ✔️ I learning: Blazor, WPF, MAUI and Neural networks  
+- ✔️ I learning: Blazor, MAUI and Neural networks  
   
 
-- ❗ Fun fact: I use JSON  
+- ❗ Fun fact: My brain was fucked 3 times
   
 
 <br/>  
