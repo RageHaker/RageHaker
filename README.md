@@ -10,7 +10,7 @@
 - 🤖 I can accept my mistakes  
   
 
-- ✔️ I learning: Blazor and Neural networks  
+- ✔️ I learning: Blazor, Neural networks, Wpf  
   
 
 - ❗ Fun fact: My brain was fucked 3 times
