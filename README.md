@@ -3,7 +3,7 @@
 </div>  
   
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+new+Developer.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+new+Developer.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me:)](https://git.io/typing-svg)  
   
 
