@@ -7,13 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me:)](https://git.io/typing-svg)  
   
 
-- 🤖 I can accept my mistakes  
+- ✔️ I learning: Blazor, Wpf and Unity  
   
 
-- ✔️ I learning: Blazor, Neural networks, Wpf  
-  
-
-- ❗ Fun fact: My brain was fucked 3 times
+- ❗ Fun fact: no fun fact 
   
 
 <br/>  
