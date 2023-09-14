@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nothing. Nothing at all
+Nothing. Nothing at all.
 
 
 ## 🌐 Socials:
