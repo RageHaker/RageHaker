@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nothing. Nothing at all.
+subtitle: Text('Imperius (Slowed) - Caleb Bryant', style: theme.textTheme.labelSmall)
 
 
 ## 🌐 Socials:
