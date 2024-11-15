@@ -2,14 +2,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=X-s0ft&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=X-s0ft&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<img align="right" height="180" src="https://media.tenor.com/evs0zetoOiQAAAAi/warframe-frost.gif"  />
 
 ###
 
